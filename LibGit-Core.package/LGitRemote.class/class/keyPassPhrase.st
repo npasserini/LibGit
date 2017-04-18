@@ -2,4 +2,7 @@ accessing-credentials
 keyPassPhrase
 	^ self credentials
 		at: #keyPassPhrase
-		ifAbsentPut: [ UIManager default request: 'Passphrase of your private key file?' ]
+		ifAbsentPut: [  | value |
+			value := (SystemSettingsPersistence default nodeNamed: #'keyPassPhrase') storedValue.
+			value ifNil: [ 
+				UIManager default request: 'Passphrase of your private key file?' ] ]
