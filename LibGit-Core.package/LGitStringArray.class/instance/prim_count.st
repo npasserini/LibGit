@@ -1,4 +1,4 @@
 libgit-fields
 prim_count
 	"This method was automatically generated"
-	^handle platformUnsignedLongAt: OFFSET_PRIM_COUNT
+	^handle platformSizeTAt: OFFSET_PRIM_COUNT
