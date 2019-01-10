@@ -1,7 +1,5 @@
 {
+	"name" : "TLGitPrintingTrait",
 	"commentStamp" : "",
-	"classinstvars" : [ ],
-	"category" : "LibGit-Core-Traits",
-	"instvars" : [ ],
-	"name" : "TLGitPrintingTrait"
+	"category" : "LibGit-Core-Traits"
 }
