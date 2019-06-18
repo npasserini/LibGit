@@ -19,4 +19,11 @@ baseline: spec
 		spec
 			group: 'tests'
 			with: #('LibGit-Tests').
+
+		spec
+			for: #'pharo7.x'
+			do: [ spec
+						package: 'LibGit-Compatibility-Pharo7';
+						package: 'LibGit-Core' with: [spec requires: 'LibGit-Compatibility-Pharo7' ]].
+
 		spec postLoadDoIt: #postLoadActions ]
