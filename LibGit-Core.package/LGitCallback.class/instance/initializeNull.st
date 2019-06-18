@@ -1,3 +1,4 @@
-as yet unclassified
+instance initialization
 initializeNull
-	thunk := ExternalAddress null
+	
+	self beNull
