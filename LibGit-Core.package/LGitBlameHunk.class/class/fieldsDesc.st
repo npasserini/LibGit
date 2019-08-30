@@ -1,6 +1,5 @@
 fields description
 fieldsDesc
-	<hack: 'orig_start_line_number is a uint16_t according to spec. The offset of orig_signature however is 56, not 54 (while the first fields are *not* aligned). To fix that, I changed the type of orig_start_line_number to uint32_t'>
 	^ #(
 		size_t lines_in_hunk "is the number of lines in this hunk"
 		LGitId final_commit_id "is the OID of the commit where this line was last changed."
