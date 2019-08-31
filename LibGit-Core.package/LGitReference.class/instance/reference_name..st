@@ -1,4 +1,4 @@
 libgit-calls
 reference_name: ref
 	
-	^ self call: #(String git_reference_name #(self)) options: #()
+	^ self ffiCallSafely: #(String git_reference_name #(self)) options: #()

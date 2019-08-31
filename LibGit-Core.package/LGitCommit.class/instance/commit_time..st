@@ -1,4 +1,4 @@
 libgit-calls
 commit_time: commit
 	
-	^ self call: #(int64 git_commit_time #(self)) options: #()
+	^ self ffiCallSafely: #(int64 git_commit_time #(self)) options: #()

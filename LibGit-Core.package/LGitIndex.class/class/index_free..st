@@ -1,4 +1,4 @@
 libgit-calls
 index_free: handle
 	
-	^ self call: #(void git_index_free #(void *handle)) options: #()
+	^ self ffiCallSafely: #(void git_index_free #(void *handle)) options: #()

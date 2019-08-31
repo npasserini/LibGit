@@ -2,6 +2,6 @@ libgit-calls
 revwalk_new: out repo: repo
 	
 	^ self
-		callUnchecked:
+		ffiCall:
 			#(LGitReturnCodeEnum git_revwalk_new #(LGitRevwalk * self , LGitRepository repo))
 		options: #()

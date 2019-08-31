@@ -1,4 +1,3 @@
 resources
 ffiLibrary
-
-	^LGitLibrary 
+	^LGitLibrary uniqueInstance

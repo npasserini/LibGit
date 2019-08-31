@@ -1,4 +1,4 @@
 libgit-calls
 treebuilder_clear: bld
 	
-	^ self call: #(void git_treebuilder_clear #(self)) options: #()
+	^ self ffiCallSafely: #(void git_treebuilder_clear #(self)) options: #()
