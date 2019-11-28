@@ -1,4 +1,4 @@
 libgit-fields
 prim_flags
 	"This method was automatically generated"
-	^handle unsignedLongAt: OFFSET_PRIM_FLAGS
+	^ LGitDiffFindTypeEnum fromInteger: (handle unsignedLongAt: OFFSET_PRIM_FLAGS)
