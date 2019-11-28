@@ -2,6 +2,6 @@ libgit-calls
 remote_lookup: out repo: repo name: name
 	
 	^ self
-		callUnchecked:
+		ffiCall:
 			#(LGitReturnCodeEnum git_remote_lookup #(LGitRemote * self , LGitRepository repo , String name))
 		options: #()

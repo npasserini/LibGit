@@ -1,4 +1,4 @@
 libgit-calls
 tree_entrycount: tree
 	
-	^ self call: #(int git_tree_entrycount #(self)) options: #()
+	^ self ffiCallSafely: #(int git_tree_entrycount #(self)) options: #()
