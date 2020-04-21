@@ -84,4 +84,10 @@ fieldsDesc
 		 * as the last parameter.
 		 "
 		void *payload;
+		
+		"
+		 * Resolve URL before connecting to remote. The returned URL will be used to connect to the remote instead.
+		"		
+		LGitURLResolveCallback resolve_url
+
 	)

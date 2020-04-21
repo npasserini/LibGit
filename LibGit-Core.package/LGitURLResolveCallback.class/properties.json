@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Guille 4/17/2020 19:18",
+	"super" : "LGitCallback",
+	"category" : "LibGit-Core-FFI-Callbacks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitURLResolveCallback",
+	"type" : "normal"
+}
