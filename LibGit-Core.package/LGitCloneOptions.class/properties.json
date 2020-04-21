@@ -17,7 +17,10 @@
 		"OFFSET_PRIM_VERSION"
 	],
 	"instvars" : [
-		"fetchOptions"
+		"fetchOptions",
+		"checkoutOptions",
+		"cachedCheckoutOptions",
+		"cachedFetchOptions"
 	],
 	"name" : "LGitCloneOptions",
 	"type" : "normal"

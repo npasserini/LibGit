@@ -17,7 +17,7 @@ fieldsDesc
 		 * Whether to write the results to FETCH_HEAD. Defaults to
 		 * on. Leave this default in order to behave like git.
 		 "
-		Boolean update_fetchhead;
+		int update_fetchhead;
 
 		"
 		 * Determines how to behave regarding tags on the remote, such

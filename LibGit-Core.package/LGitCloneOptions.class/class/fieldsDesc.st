@@ -22,7 +22,7 @@ fieldsDesc
 		 * Set to zero (false) to create a standard repo, or non-zero
 		 * for a bare repo
 		 "
-		Boolean bare;
+		int bare;
 
 		"
 		 * Whether to use a fetch or copy the object database.

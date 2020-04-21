@@ -14,7 +14,8 @@
 		"OFFSET_PRIM_VERSION"
 	],
 	"instvars" : [
-		"callbacks"
+		"callbacks",
+		"cachedCallbacks"
 	],
 	"name" : "LGitFetchOptions",
 	"type" : "normal"
