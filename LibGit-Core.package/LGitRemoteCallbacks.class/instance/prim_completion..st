@@ -4,5 +4,5 @@ prim_completion: anObject
 	handle 
 		pointerAt: OFFSET_PRIM_COMPLETION
 		put: (anObject 
-			ifNotNil: [ ExternalAddress fromAddress: anObject thunk address ]
+			ifNotNil: [ anObject thunk asExternalAddress ]
 			ifNil: [ ExternalAddress null ])
