@@ -1,7 +1,7 @@
 operations
 clone: aString withCredentials: aCredentialsProvider 
 	| cloneOptions |
-	cloneOptions := LGitCloneOptions withCredentialsProvider: aCredentialsProvider.
+	cloneOptions := self cloneOptionsStructureClass withCredentialsProvider: aCredentialsProvider.
 	self
 		clone: aString
 		options: cloneOptions	

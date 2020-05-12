@@ -34,8 +34,8 @@ testPushSSH
 		shouldnt: [
 			remote
 				pushWithRefSpec: (LGitRefSpec fromString: 'refs/heads/master:refs/heads/libgit')
-				pushOptions: (LGitPushOptions defaults
-					callbacks: (LGitRemoteCallbacks defaults
+				pushOptions: (self ffiLibrary pushOptionsStructureClass defaults
+					callbacks: (self ffiLibrary remoteCallbacksStructureClass defaults
 						credentials: credentialsCallback;
 						yourself);
 					yourself). ]

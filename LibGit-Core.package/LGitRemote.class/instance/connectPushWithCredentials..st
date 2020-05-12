@@ -4,4 +4,4 @@ connectPushWithCredentials: aCredentialsProvider
 		self 
 			remote_connect: self 
 			direction: LGitDirectionEnum git_direction_push
-			callbacks: (LGitRemoteCallbacks withProvider: aCredentialsProvider) ]
+			callbacks: (self ffiLibrary remoteCallbacksStructureClass withProvider: aCredentialsProvider) ]

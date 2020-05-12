@@ -6,5 +6,5 @@ fetchWithMessage: aString
 		self
 			remote_fetch: self
 			refspecs: nil
-			opts: LGitFetchOptions defaults
+			opts: self ffiLibrary fetchOptionsStructureClass defaults
 			reflog_message: aString ]

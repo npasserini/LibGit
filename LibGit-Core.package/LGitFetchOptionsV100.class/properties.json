@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LGitFetchOptionsV02x",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitFetchOptionsV100",
+	"type" : "normal"
+}

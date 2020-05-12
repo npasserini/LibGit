@@ -4,5 +4,5 @@ prim_progress_cb: anObject
 	handle 
 		pointerAt: OFFSET_PRIM_PROGRESS_CB
 		put: (anObject 
-			ifNotNil: [ ExternalAddress fromAddress: anObject thunk address ]
+			ifNotNil: [ anObject thunk asExternalAddress ]
 			ifNil: [ ExternalAddress null ])

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LGitPushOptionsV02x",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitPushOptionsV100",
+	"type" : "normal"
+}

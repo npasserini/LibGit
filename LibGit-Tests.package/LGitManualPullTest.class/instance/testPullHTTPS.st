@@ -11,8 +11,8 @@ testPullHTTPS
 		on: [ :cred :url :username_from_url :allowed_types :data | 
 			credentials createWith: cred.
 			0 ].
-	options := (LGitFetchOptions defaults
-		callbacks: (LGitRemoteCallbacks defaults
+	options := (repo ffiLibrary fetchOptionsStructureClass defaults
+		callbacks: (self ffiLibrary remoteCallbacksStructureClass defaults
 			credentials: credentialsCallback;
 			yourself);
 		yourself).

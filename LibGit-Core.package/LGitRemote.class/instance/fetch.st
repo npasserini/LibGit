@@ -6,7 +6,7 @@ fetch
 		self
 			remote_fetch: self
 			refspecs: self ffiNull handle
-			opts: (LGitFetchOptions defaults
-				callbacks: LGitRemoteCallbacks defaults;
+			opts: (self ffiLibrary fetchOptionsStructureClass defaults
+				callbacks: self ffiLibrary remoteCallbacksStructureClass defaults;
 				yourself)
 			reflog_message: nil ]

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Guille 5/12/2020 11:32",
+	"super" : "LGitRemoteCallbacksV02x",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_RESOLVE_URL"
+	],
+	"instvars" : [ ],
+	"name" : "LGitRemoteCallbacksV100",
+	"type" : "normal"
+}

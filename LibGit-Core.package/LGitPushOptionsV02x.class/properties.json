@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "Guille 4/17/2020 19:10",
+	"super" : "LGitStructWithDefaults",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_CALLBACKS",
+		"OFFSET_PRIM_CUSTOM_HEADERS",
+		"OFFSET_PRIM_PB_PARALLELISM",
+		"OFFSET_PRIM_PROXY_OPTS",
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [
+		"callbacks"
+	],
+	"name" : "LGitPushOptionsV02x",
+	"type" : "normal"
+}
