@@ -12,4 +12,4 @@ clone: aString options: cloneOptions to: aFileReference
 			clone: self
 			url: aString
 			local_path: aFileReference pathString
-			options: cloneOptions ]
+			options: cloneOptions getHandle ]

@@ -6,7 +6,7 @@ fetch
 		self
 			remote_fetch: self
 			refspecs: self ffiNull handle
-			opts: (self ffiLibrary fetchOptionsStructureClass defaults
-				callbacks: self ffiLibrary remoteCallbacksStructureClass defaults;
+			opts: (self ffiLibrary uniqueInstance fetchOptionsStructureClass defaults
+				callbacks: self ffiLibrary uniqueInstance remoteCallbacksStructureClass defaults;
 				yourself)
 			reflog_message: nil ]

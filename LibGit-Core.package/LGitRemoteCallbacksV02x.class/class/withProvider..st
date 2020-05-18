@@ -1,7 +1,7 @@
 instance creation
 withProvider: provider
 
-	^ self class defaults
+	^ self defaults
 		credentials: (self newCredentialsCallbackFor: provider);
 		certificateCheck: self newCertificateCheckCallback;
 		yourself

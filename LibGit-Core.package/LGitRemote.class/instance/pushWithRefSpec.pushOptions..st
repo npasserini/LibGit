@@ -6,6 +6,6 @@ pushWithRefSpec: aRefSpec pushOptions: pushOptions
 		self
 			remote_push: self
 			refspecs: refspecs
-			opts: pushOptions ].
+			opts: pushOptions getHandle ].
 		
 	^ return

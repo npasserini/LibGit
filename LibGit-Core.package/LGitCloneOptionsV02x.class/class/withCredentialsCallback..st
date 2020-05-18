@@ -3,11 +3,11 @@ withCredentialsCallback: aBlock
 	| credentialsCallback callbacks fetchOptions  |
 	credentialsCallback := LGitCredAcquireCallback on: aBlock.
 
-	callbacks := self ffiLibrary remoteCallbacksStructureClass defaults
+	callbacks := self ffiLibrary uniqueInstance remoteCallbacksStructureClass defaults
 		credentials: credentialsCallback;
 		yourself.
 
-	fetchOptions := self ffiLibrary fetchOptionsStructureClass defaults
+	fetchOptions := self ffiLibrary uniqueInstance fetchOptionsStructureClass defaults
 		callbacks: callbacks;
 		yourself.
 

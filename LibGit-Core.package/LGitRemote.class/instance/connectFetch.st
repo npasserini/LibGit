@@ -4,4 +4,4 @@ connectFetch
 		self 
 			remote_connect: self 
 			direction: LGitDirectionEnum git_direction_fetch
-			callbacks: self ffiLibrary remoteCallbacksStructureClass defaults ]
+			callbacks: self ffiLibrary uniqueInstance remoteCallbacksStructureClass defaults ]

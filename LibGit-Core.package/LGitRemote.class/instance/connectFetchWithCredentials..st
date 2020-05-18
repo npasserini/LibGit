@@ -4,4 +4,4 @@ connectFetchWithCredentials: aCredentialsProvider
 		self 
 			remote_connect: self 
 			direction: LGitDirectionEnum git_direction_fetch
-			callbacks: (self ffiLibrary remoteCallbacksStructureClass withProvider: aCredentialsProvider) ]
+			callbacks: (self ffiLibrary uniqueInstance remoteCallbacksStructureClass withProvider: aCredentialsProvider) ]
