@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "LGitStructWithDefaults",
+	"super" : "LGitAbstractFetchOptions",
 	"category" : "LibGit-Core-FFI-Structs",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -13,10 +13,7 @@
 		"OFFSET_PRIM_UPDATE_FETCHHEAD",
 		"OFFSET_PRIM_VERSION"
 	],
-	"instvars" : [
-		"callbacks",
-		"cachedCallbacks"
-	],
+	"instvars" : [ ],
 	"name" : "LGitFetchOptionsV02x",
 	"type" : "normal"
 }

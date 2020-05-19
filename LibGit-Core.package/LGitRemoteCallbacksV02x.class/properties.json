@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "Guille 5/12/2020 11:33",
-	"super" : "LGitStructWithDefaults",
+	"super" : "LGitAbstractRemoteCallbacks",
 	"category" : "LibGit-Core-FFI-Structs",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -19,12 +19,7 @@
 		"OFFSET_PRIM_UPDATE_TIPS",
 		"OFFSET_PRIM_VERSION"
 	],
-	"instvars" : [
-		"credentialsCallback",
-		"certificateCheckCallback",
-		"transferProgressCallback",
-		"pushTransferProgress"
-	],
+	"instvars" : [ ],
 	"name" : "LGitRemoteCallbacksV02x",
 	"type" : "normal"
 }

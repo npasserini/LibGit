@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "LGitStructWithDefaults",
+	"super" : "LGitAbstractCloneOptions",
 	"category" : "LibGit-Core-FFI-Structs",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -16,12 +16,7 @@
 		"OFFSET_PRIM_REPOSITORY_CB_PAYLOAD",
 		"OFFSET_PRIM_VERSION"
 	],
-	"instvars" : [
-		"fetchOptions",
-		"checkoutOptions",
-		"cachedCheckoutOptions",
-		"cachedFetchOptions"
-	],
+	"instvars" : [ ],
 	"name" : "LGitCloneOptionsV02x",
 	"type" : "normal"
 }

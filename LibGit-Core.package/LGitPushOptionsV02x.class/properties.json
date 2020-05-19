@@ -1,6 +1,6 @@
 {
-	"commentStamp" : "Guille 4/17/2020 19:10",
-	"super" : "LGitStructWithDefaults",
+	"commentStamp" : "Guille 5/19/2020 14:22",
+	"super" : "LGitAbstractPushOptions",
 	"category" : "LibGit-Core-FFI-Structs",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -11,9 +11,7 @@
 		"OFFSET_PRIM_PROXY_OPTS",
 		"OFFSET_PRIM_VERSION"
 	],
-	"instvars" : [
-		"callbacks"
-	],
+	"instvars" : [ ],
 	"name" : "LGitPushOptionsV02x",
 	"type" : "normal"
 }
