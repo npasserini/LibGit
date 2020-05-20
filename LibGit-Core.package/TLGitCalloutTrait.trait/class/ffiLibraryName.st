@@ -1,3 +1,3 @@
 resources
 ffiLibraryName
-	^self ffiLibrary moduleName
+	^self ffiLibrary libraryName

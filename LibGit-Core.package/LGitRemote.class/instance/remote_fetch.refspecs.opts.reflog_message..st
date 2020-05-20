@@ -3,5 +3,5 @@ remote_fetch: remote refspecs: refspecs opts: opts reflog_message: reflog_messag
 	
 	^ self
 		ffiCallSafely:
-			#(LGitReturnCodeEnum git_remote_fetch #(self , LGitStringArray * refspecs , LGitFetchOptions * opts , String reflog_message))
+			#(LGitReturnCodeEnum git_remote_fetch #(self , LGitStringArray * refspecs , void * opts , String reflog_message))
 		options: #(optCoerceNilToNull)

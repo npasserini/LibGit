@@ -4,4 +4,4 @@ ffiCallSafely: fnSpec options: options
 	^ (LGitSafeFFICalloutAPI inContext: thisContext sender)
 		convention: self ffiCallingConvention;
 		options: (self ffiLibrary options), options;
-		function: fnSpec module: self ffiLibrary moduleName
+		function: fnSpec module: self ffiLibrary libraryName
