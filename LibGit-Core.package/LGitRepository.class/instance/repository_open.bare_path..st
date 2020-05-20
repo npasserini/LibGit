@@ -2,6 +2,6 @@ libgit-calls
 repository_open: out bare_path: bare_path
 	
 	^ self
-		callUnchecked:
+		ffiCall:
 			#(LGitReturnCodeEnum git_repository_open #(LGitRepository * out , String bare_path))
 		options: #()

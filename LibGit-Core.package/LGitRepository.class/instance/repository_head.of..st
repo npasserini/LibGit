@@ -2,6 +2,6 @@ libgit-calls
 repository_head: reference of: repository
 	
 	^ self
-		call:
+		ffiCallSafely:
 			#(LGitReturnCodeEnum git_repository_head #(LGitReference * reference , self))
 		options: #()

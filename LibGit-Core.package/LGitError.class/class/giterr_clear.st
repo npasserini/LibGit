@@ -1,3 +1,3 @@
 libgit-calls
 giterr_clear
-	^ self call: #(void giterr_clear()) options: #(  )
+	^ self ffiCallSafely: #(void giterr_clear()) options: #(  )

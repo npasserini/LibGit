@@ -1,6 +1,6 @@
 libgit-calls
 checkout_treeish: treeish opts: opts
 	^ self
-		call:
+		ffiCallSafely:
 			#(LGitReturnCodeEnum git_checkout_tree #(self , LGitObject treeish , LGitCheckoutOptions * opts))
 		options: #()

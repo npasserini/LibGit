@@ -1,3 +1,3 @@
 libgit-calls
 commit_raw_header: aCommit
-	^ self call: #(const char * git_commit_raw_header(self))
+	^ self ffiCallSafely: #(const char * git_commit_raw_header(self))
