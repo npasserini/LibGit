@@ -10,7 +10,7 @@ fetchWithCredentials: aCredentialsProvider andProgressCallback: progressCallback
 		self
 			remote_fetch: self
 			refspecs: refSpecs
-			opts: (self ffiLibrary uniqueInstance fetchOptionsStructureClass defaults;
+			opts: (self ffiLibrary uniqueInstance fetchOptionsStructureClass defaults
 				callbacks: callbacks;
 				yourself)
 			reflog_message: nil ]
