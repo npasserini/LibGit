@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "Guille 5/19/2020 14:22",
+	"commentStamp" : "",
 	"super" : "LGitAbstractPushOptions",
 	"category" : "LibGit-Core-FFI-Structs",
 	"classinstvars" : [ ],
