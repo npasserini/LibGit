@@ -6,7 +6,7 @@ fetchWithMessage: aString credentials: aCredentialsProvider
 		self
 			remote_fetch: self
 			refspecs: nil
-			opts: (LGitFetchOptions defaults
-				callbacks: (LGitRemoteCallbacks withProvider: aCredentialsProvider);
+			opts: (self ffiLibrary uniqueInstance fetchOptionsStructureClass defaults
+				callbacks: (self ffiLibrary uniqueInstance remoteCallbacksStructureClass withProvider: aCredentialsProvider);
 				yourself)
 			reflog_message: aString ]

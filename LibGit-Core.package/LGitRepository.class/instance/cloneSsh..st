@@ -2,7 +2,7 @@ operations
 cloneSsh: aString
 	| credentials cloneOptions |
 	credentials := LGitRemote credentialsSsh.
-	cloneOptions := LGitCloneOptions withCredentialsCallback: 
+	cloneOptions := self cloneOptionsStructureClass withCredentialsCallback: 
 		[ :cred :url :username_from_url :allowed_types :data | 
 			allowed_types = 32 
 				ifTrue: [ credentials setGitUsernameIn: cred ]

@@ -1,4 +1,4 @@
 running
 tearDown
 	super tearDown.
-	"LGitTestRepository tearDown"
+	repository ifNotNil: [ repository free ]

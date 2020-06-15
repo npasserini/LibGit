@@ -1,7 +1,7 @@
 libgit-calls
 remote_push: remote refspecs: refspecs opts: opts
 	
-	^ self
-		call:
-			#(LGitReturnCodeEnum git_remote_push #(self , LGitStringArray * refspecs , LGitPushOptions * opts))
-		options: #(optCoerceNilToNull)
+	self ffiLibrary uniqueInstance version first = 0
+		ifTrue: [
+			^ self remote_push_v0251: remote refspecs: refspecs opts: opts ].
+	^ self remote_push_v100: remote refspecs: refspecs opts: opts

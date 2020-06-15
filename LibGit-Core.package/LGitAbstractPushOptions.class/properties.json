@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Guille 5/19/2020 14:23",
+	"super" : "LGitStructWithDefaults",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callbacks"
+	],
+	"name" : "LGitAbstractPushOptions",
+	"type" : "normal"
+}

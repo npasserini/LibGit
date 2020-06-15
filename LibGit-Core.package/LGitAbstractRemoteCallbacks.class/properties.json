@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "LGitStructWithDefaults",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"credentialsCallback",
+		"certificateCheckCallback",
+		"transferProgressCallback",
+		"pushTransferProgress"
+	],
+	"name" : "LGitAbstractRemoteCallbacks",
+	"type" : "normal"
+}
