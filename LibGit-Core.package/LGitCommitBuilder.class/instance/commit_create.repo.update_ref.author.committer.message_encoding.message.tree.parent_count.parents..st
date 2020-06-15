@@ -5,5 +5,5 @@ commit_create: theCommitId repo: repo update_ref: update_ref author: theAuthor c
 		'try to use original function signature instead of passing ExternalAddress as last arg'>
 	^ self
 		ffiCall:
-			#(LGitReturnCodeEnum git_commit_create #(LGitId * theCommitId , LGitRepository repo , String update_ref , LGitSignature * theAuthor , LGitSignature * theCommitter , String message_encoding , String theMessage , LGitTree theTree , int parent_count , void *parentsPointer))
+			#(LGitReturnCodeEnum git_commit_create #(LGitId * theCommitId , LGitRepository repo , String update_ref , LGitSignature * theAuthor , LGitSignature * theCommitter , String message_encoding , String theMessage , LGitTree theTree , size_t parent_count , void *parentsPointer))
 		options: #(optCoerceNilToNull)
