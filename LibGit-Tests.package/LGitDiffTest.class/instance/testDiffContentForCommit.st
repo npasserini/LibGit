@@ -3,7 +3,7 @@ testDiffContentForCommit
 	| referenceCommit diffCommit diff delta newFile relativePath oldFile |
 	self touchFileAndCommit.
 	referenceCommit := self repository head object.
-	diffCommit := referenceCommit parents first.
+	diffCommit := referenceCommit parentAt: 1.
 	diff := (LGitDiff of: self repository)
 		diffTree: referenceCommit tree toTree: diffCommit tree;
 		yourself.
