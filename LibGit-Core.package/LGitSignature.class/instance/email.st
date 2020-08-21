@@ -1,3 +1,3 @@
 accessing
 email
-	^ self prim_email readString
+	^ self prim_email readStringUTF8
