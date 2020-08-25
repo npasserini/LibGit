@@ -1,3 +1,3 @@
 testing
 hasParents
-	^ self parents notEmpty
+	^ self numberOfParents > 0

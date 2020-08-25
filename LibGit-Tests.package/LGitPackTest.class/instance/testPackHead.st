@@ -22,7 +22,7 @@ testPackHead
 		self assert: head author name equals: 'Bart Simpson'.
 		self assert: head message equals: 'push test'.
 		self assert: head tree entries first entries first object contents equals: 'eat my shorts'.
-		self assert: head parents isEmpty.
+		self deny: head hasParents.
 		"only pack directory left"
 		self assert: (repo repositoryReference / '.git'/ 'objects') children size equals: 1
 	]

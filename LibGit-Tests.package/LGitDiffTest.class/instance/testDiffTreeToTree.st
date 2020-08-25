@@ -3,7 +3,7 @@ testDiffTreeToTree
 	| referenceCommit diffCommit diff printDiff |
 	self touchFileAndCommit.
 	referenceCommit := self repository head object.
-	diffCommit := referenceCommit parents first.
+	diffCommit := referenceCommit parentAt: 1.
 	diff := (LGitDiff of: self repository)
 		diffTree: diffCommit tree toTree: referenceCommit tree;
 		yourself.

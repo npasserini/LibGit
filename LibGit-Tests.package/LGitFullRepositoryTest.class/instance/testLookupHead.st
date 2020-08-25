@@ -7,4 +7,4 @@ testLookupHead
 	self assert: ref class equals: LGitReference.
 	self assert: ref name equals: 'HEAD'.
 	self assert: ref resolve isHead.
-	self assert: ref object parents isEmpty
+	self deny: ref object hasParents
