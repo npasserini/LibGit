@@ -1,3 +1,4 @@
 accessing
-setString: name to: value
-	self config_set_string: name to: value
+setString: name to: aString
+
+	self config_set_string: name to: aString utf8Encoded asString
