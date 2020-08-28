@@ -1,3 +1,3 @@
 accessing
 at: anInteger
-	^ (self primAt: anInteger) readString
+	^ (self primAt: anInteger) readStringUTF8
