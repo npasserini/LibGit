@@ -4,14 +4,14 @@ filesDo: filesBlockOrNil binaryFilesDo: binaryBlockOrNil hunksDo: hunksBlockOrNi
 		diff_foreach: self
 		file_cb: (filesBlockOrNil 
 			ifNotNil: [ LGitDiffFileCallback on: filesBlockOrNil ]
-			ifNil: [ LGitCallback null ])
+			ifNil: [ LGitDiffFileCallback null ])
 		binary_cb: (binaryBlockOrNil 
 			ifNotNil: [ 	LGitDiffBinaryCallback on: binaryBlockOrNil ]
-			ifNil: [ LGitCallback null ])
+			ifNil: [ LGitDiffBinaryCallback null ])
 		hunk_cb: (hunksBlockOrNil 
 			ifNotNil: [ 	LGitDiffHunkCallback on: hunksBlockOrNil ]
-			ifNil: [ LGitCallback null ])
+			ifNil: [ LGitDiffHunkCallback null ])
 		line_cb: (linesBlockOrNil 
 			ifNotNil: [ 	LGitDiffLineCallback on: linesBlockOrNil ]
-			ifNil: [ LGitCallback null ])
+			ifNil: [ LGitDiffLineCallback null ])
 		payload: ExternalAddress null
