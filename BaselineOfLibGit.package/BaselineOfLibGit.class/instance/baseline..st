@@ -25,6 +25,4 @@ baseline: spec
 			do: [ spec
 						package: 'LibGit-Compatibility-Pharo7';
 			         group: 'default'
-        					with: #('LibGit-Core' 'LibGit-FileSystem' 'LibGit-Compatibility-Pharo7')].
-
-		spec postLoadDoIt: #postLoadActions ]
+        					with: #('LibGit-Core' 'LibGit-FileSystem' 'LibGit-Compatibility-Pharo7')] ]
