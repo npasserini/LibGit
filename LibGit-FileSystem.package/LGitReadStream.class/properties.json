@@ -6,7 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"rawBuffer",
 		"gitBlob",
 		"position"
 	],

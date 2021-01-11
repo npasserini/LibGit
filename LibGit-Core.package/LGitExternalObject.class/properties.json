@@ -1,9 +1,6 @@
 {
 	"classtraitcomposition" : "TLGitPrintingTrait classTrait + TLGitCalloutTrait classTrait",
-	"classvars" : [
-		"LibraryHandle",
-		"Session"
-	],
+	"classvars" : [ ],
 	"instvars" : [ ],
 	"name" : "LGitExternalObject",
 	"commentStamp" : "",
