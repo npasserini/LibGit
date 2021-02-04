@@ -18,5 +18,5 @@ eat my shorts
 \ No newline at end of file
 extra textrts
 \ No newline at end of file
-' replaceAll: Character cr with: Character lf.
+' copyReplaceAll: Character cr asString with: Character lf asString.
 	self assert: (diff patchAt: diff numberOfDeltas) printDiff equals: printDiff
