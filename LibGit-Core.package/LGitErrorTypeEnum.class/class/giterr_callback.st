@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_callback
 	^ self basicNew
 		value: 26;

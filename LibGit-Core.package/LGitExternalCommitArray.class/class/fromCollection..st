@@ -1,5 +1,6 @@
 instance creation
 fromCollection: aCollection
+
 	| instance |
 	instance := self externalNew: aCollection size.
 	aCollection withIndexDo: [ :commit :index |

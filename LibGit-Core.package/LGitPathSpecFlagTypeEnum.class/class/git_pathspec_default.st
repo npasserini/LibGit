@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_pathspec_default
 	^ self basicNew
 		value: 0;

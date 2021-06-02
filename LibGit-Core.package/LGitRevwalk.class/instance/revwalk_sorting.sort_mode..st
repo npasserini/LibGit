@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 revwalk_sorting: walk sort_mode: sort_mode
 	
 	^ self

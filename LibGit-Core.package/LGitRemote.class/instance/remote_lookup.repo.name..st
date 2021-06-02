@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_lookup: out repo: repo name: name
 	
 	^ self

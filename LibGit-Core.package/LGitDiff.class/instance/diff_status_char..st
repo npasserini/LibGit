@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_status_char: status
 	
 	^ self

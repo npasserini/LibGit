@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_none
 	^ self basicNew
 		value: 0;

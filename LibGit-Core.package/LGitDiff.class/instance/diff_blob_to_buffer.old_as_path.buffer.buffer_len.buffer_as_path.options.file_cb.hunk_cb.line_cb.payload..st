@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_blob_to_buffer: old_blob old_as_path: old_as_path buffer: buffer buffer_len: buffer_len buffer_as_path: buffer_as_path options: options file_cb: file_cb hunk_cb: hunk_cb line_cb: line_cb payload: payload
 	
 	^ self

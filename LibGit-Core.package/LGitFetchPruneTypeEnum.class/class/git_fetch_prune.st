@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_fetch_prune
 	^ self basicNew
 		value: 1;

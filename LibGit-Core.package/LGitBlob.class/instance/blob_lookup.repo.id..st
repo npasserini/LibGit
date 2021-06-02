@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blob_lookup: blob repo: repo id: objectId
 	
 	^ self

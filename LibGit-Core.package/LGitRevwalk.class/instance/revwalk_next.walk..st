@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 revwalk_next: out walk: walk
 	
 	^ self

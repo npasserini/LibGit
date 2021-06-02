@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_index
 	^ self basicNew
 		value: 10;

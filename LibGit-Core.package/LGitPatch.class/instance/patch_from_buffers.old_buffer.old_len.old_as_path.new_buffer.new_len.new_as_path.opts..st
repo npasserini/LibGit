@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 patch_from_buffers: out old_buffer: old_buffer old_len: old_len old_as_path: old_as_path new_buffer: new_buffer new_len: new_len new_as_path: new_as_path opts: opts
 	self flag: #todo. "This one doesnt seems to exist anymore. Instead I think it is git_patch_from_blob_and_buffer"
 	^ self

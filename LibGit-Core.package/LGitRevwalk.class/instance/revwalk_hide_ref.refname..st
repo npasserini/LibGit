@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 revwalk_hide_ref: walk refname: refname
 	
 	^ self

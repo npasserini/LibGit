@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_fetchhead
 	^ self basicNew
 		value: 21;

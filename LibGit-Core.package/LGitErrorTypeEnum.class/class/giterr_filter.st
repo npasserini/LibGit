@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_filter
 	^ self basicNew
 		value: 24;

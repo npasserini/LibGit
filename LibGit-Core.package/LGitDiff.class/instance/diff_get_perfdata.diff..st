@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_get_perfdata: out diff: diff
 	
 	^ self

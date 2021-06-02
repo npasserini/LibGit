@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 branch_next: out out_type: out_type
 	^ self
 		ffiCallSafely:

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 object_lookup: object repo: repo id: oid type: type
 	
 	^ self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 branch_iterator_new: out repo: repo list_flags: list_flags
 	
 	^ self

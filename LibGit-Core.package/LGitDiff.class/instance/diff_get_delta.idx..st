@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_get_delta: diff idx: idx
 	<todo: 'use LGitDiffDelta* as return type'>
 	

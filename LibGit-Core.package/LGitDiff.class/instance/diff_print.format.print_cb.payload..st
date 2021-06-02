@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_print: diff format: format print_cb: print_cb payload: payload
 	
 	^ self

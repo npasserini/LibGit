@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_resolve_url: anObject
 	"This method was automatically generated"
 	handle 

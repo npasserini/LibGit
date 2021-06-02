@@ -1,0 +1,1 @@
+Error structure for git

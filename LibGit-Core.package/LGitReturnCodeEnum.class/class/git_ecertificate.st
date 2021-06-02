@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_ecertificate
 	^ self basicNew
 		value: -17;

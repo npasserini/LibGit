@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blame_get_hunk_byline: blame lineno: lineno
 	"todo: using LGitBlameHunk* as return value causes random crashes"
 	

@@ -1,4 +1,4 @@
-accessing platform
+accessing - platform
 win32ModuleName
 
 	| pluginDir |

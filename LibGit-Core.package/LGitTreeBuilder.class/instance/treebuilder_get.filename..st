@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 treebuilder_get: bld filename: filename
 	
 	^ self

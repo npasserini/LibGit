@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_num_deltas_of_type: diff type: type
 	
 	^ self

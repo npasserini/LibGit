@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_credentials: anObject
 	"This method was automatically generated"
 	handle 

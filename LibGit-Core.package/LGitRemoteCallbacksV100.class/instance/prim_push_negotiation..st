@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_push_negotiation: anObject
 	"This method was automatically generated"
 	handle 

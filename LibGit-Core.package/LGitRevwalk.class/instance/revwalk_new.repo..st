@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 revwalk_new: out repo: repo
 	
 	^ self

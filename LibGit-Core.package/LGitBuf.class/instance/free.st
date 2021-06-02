@@ -1,4 +1,4 @@
-libgit-finalization
+libgit - finalization
 free
 	"Free the memory referred to by the git_buf.
 

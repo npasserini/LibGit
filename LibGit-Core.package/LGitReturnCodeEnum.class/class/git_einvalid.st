@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_einvalid
 	^ self basicNew
 		value: -21;

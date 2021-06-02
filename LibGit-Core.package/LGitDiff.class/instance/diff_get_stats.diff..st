@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_get_stats: out diff: diff
 	
 	^ self

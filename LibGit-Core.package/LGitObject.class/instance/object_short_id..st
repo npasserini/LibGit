@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 object_short_id: out
 	
 	^ self

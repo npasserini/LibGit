@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_zlib
 	^ self basicNew
 		value: 5;

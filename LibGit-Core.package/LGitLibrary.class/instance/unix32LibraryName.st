@@ -1,4 +1,4 @@
-accessing platform
+accessing - platform
 unix32LibraryName
 
 	^ FFIUnix32LibraryFinder findAnyLibrary: #(

@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_free_signature: anObject
 	"This method was automatically generated"
 	handle 

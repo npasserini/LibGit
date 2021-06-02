@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_fetch_v100: remote refspecs: refspecs opts: opts reflog_message: reflog_message
 	
 	^ self

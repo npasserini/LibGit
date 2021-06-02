@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_eunbornbranch
 	^ self basicNew
 		value: -9;
