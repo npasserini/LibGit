@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 pathspec_match_list_free: handle
 	
 	^ self

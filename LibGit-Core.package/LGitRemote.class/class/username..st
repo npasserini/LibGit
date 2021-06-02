@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 username: aString
 	self credentials
 		at: #username

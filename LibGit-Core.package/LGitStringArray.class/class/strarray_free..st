@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 strarray_free: handle
 	"libgit2 will also free all the strings in this struct"
 	^ self

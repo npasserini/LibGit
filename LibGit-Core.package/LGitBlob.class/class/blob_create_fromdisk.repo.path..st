@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blob_create_fromdisk: objectId repo: repo path: path
 	
 	^ self

@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 usernameSsh: aString
 	self credentials
 		at: #usernameSsh

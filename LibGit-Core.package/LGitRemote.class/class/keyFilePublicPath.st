@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 keyFilePublicPath
 	^ self credentials
 		at: #keyFilePublicPath

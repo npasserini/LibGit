@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 keyPassPhrase: aString
 	self credentials
 		at: #keyPassPhrase
