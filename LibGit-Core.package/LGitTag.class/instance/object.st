@@ -1,4 +1,4 @@
-accesing
+accessing
 object
 	| peeled |
 	peeled := LGitObject of: self repository.
