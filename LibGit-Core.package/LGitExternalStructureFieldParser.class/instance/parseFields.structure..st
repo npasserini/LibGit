@@ -1,5 +1,6 @@
 parsing
 parseFields: fields structure: structClass
+
 	| stream type fieldName generator |
 	
 	stream := fields readStream.

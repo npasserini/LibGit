@@ -1,3 +1,4 @@
 accessing
-entryByPath: aString 
+entryByPath: aString
+
 	^ self tree entryByPath: aString

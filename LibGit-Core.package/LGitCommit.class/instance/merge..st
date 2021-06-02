@@ -1,5 +1,6 @@
 operations
 merge: anotherCommit
+
 	"Merge two commits, producing a git_index that reflects the result of the merge."
 	| index | 
 	index := LGitIndex of: self repository.

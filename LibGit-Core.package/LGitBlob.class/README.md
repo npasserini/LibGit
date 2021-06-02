@@ -1,0 +1,1 @@
+A git blob can be related to files and other associated content inside the directory

@@ -1,5 +1,6 @@
 private
 lookup
+
 	self withReturnHandlerDo: [ 
 		self
 			commit_lookup: self

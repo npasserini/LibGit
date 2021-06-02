@@ -1,0 +1,1 @@
+See [https://libgit2.org/libgit2/#HEAD/group/diff](https://libgit2.org/libgit2/#HEAD/group/diff)

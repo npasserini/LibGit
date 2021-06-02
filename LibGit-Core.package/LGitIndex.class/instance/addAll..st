@@ -1,5 +1,6 @@
 operations
 addAll: pathSpecs
+
 	| pathspec |
 	pathspec := LGitStringArray withAll: pathSpecs.
 	self withReturnHandlerDo: [ 

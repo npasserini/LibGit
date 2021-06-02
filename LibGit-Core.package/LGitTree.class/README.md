@@ -1,0 +1,1 @@
+A git repository can support multiple working trees

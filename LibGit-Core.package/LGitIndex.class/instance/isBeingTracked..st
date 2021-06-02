@@ -1,5 +1,6 @@
 testing
 isBeingTracked: aString
+
 	| intValue |
 	(self repository repositoryReference resolve: aString) isDirectory ifTrue: [ ^ true ].
 	

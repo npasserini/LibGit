@@ -1,5 +1,6 @@
 converting
 asByteArray
+
 	| array id |
 	array := ByteArray new: 20.
 	id := self prim_id.

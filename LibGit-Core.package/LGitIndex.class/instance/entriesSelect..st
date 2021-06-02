@@ -1,5 +1,6 @@
 enumerating
 entriesSelect: aBlock
+
 	| entries |
 	entries := OrderedCollection new.
 	self allFilesStatusDo: [ :path :status :payload |

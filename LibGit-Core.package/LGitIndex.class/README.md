@@ -1,0 +1,1 @@
+The Git index is used as a staging area between your working directory and your repository. One can use the index to build up a set of changes thatone wants to commit together.

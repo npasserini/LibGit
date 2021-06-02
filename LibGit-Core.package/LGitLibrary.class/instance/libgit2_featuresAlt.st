@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 libgit2_featuresAlt
 	"Query compile time options for libgit2."
 	

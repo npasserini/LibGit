@@ -1,5 +1,6 @@
 accessing
 parents
+
 	| parentCount |
 	parentCount := self numberOfParents.
 	^ Array

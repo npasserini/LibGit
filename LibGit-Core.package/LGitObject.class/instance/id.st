@@ -1,5 +1,6 @@
 accessing
 id
+
 	| data |
 	(id notNil or: [ self isNull ]) ifTrue: [ ^ id ].
 

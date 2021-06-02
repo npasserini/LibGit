@@ -1,0 +1,1 @@
+This class knows how to write the generic presentation of a package, provided by the pack builder, to the object database (odb). 	
