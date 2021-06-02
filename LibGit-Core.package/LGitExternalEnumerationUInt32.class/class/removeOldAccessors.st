@@ -1,6 +1,7 @@
 class initialization
 removeOldAccessors
+
 	declaration ifNil: [ ^ self ].
 	
-	declaration keys do: [ :selector |
+	declaration keysDo: [ :selector |
 		self class removeSelector: selector ]
