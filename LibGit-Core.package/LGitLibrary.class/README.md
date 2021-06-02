@@ -1,0 +1,1 @@
+Libgit2 library

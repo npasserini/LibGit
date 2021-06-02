@@ -1,0 +1,1 @@
+External size_t value holder

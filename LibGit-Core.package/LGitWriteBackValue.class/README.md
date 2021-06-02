@@ -1,0 +1,1 @@
+Abstract superclass for value we write back from libgit2 as external value holders
