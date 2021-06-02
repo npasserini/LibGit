@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "LGitTestCase",
-	"category" : "LibGit-Tests",
+	"category" : "LibGit-Tests-FFI-Structs",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
