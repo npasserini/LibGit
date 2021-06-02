@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 6/2/2021 21:13",
 	"super" : "LGitAbstractError",
 	"category" : "LibGit-Core-Exceptions",
 	"classinstvars" : [ ],

@@ -1,0 +1,1 @@
+There was an error opening a git repository

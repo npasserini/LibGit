@@ -1,0 +1,1 @@
+Common superclass for objects with a git repo
