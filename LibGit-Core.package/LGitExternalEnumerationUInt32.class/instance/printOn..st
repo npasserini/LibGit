@@ -6,7 +6,7 @@ printOn: stream
 		ifFalse: [ ^ self ].
 
 	stream nextPut: $(;
-		nextPutAll: self symbol printString;
+		nextPutAll: self symbol asString;
 		nextPutAll: ' [';
 		nextPutAll: self value asString;
 		nextPut: $];
