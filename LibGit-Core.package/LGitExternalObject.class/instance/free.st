@@ -1,6 +1,6 @@
 initialize-release
 free
-	handle isExternalAddress 
-		ifTrue: [ 
-			self class finalizeResourceData: handle.
-			self assert: handle isNull ]
+
+	handle isExternalAddress ifFalse: [ ^ self ].
+	self class finalizeResourceData: handle.
+	self assert: handle isNull
