@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 reference_cmp: ref1 ref2: ref2
 	
 	^ self

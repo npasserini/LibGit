@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 commit_parent_id: commit n: n
 	<todo: 'using LGitId * as return type causes a crash'>
 	

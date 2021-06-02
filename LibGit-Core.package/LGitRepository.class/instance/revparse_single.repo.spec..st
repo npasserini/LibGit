@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 revparse_single: out repo: repo spec: spec
 	
 	^ self

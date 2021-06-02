@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 checkout_index_withOptions: opts
 	^ self
 		ffiCallSafely: #(LGitReturnCodeEnum 

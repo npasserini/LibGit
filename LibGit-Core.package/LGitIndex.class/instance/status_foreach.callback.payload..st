@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 status_foreach: repo callback: callback payload: payload
 	
 	^ self

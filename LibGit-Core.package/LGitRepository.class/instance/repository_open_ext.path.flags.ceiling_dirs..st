@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_open_ext: out path: path flags: flags ceiling_dirs: ceiling_dirs
 	
 	^ self

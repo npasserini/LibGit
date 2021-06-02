@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 index_remove_all: index pathspec: pathspec callback: callback payload: payload
 	
 	^ self

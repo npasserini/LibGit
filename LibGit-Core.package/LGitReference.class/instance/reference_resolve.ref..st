@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 reference_resolve: out ref: ref
 	
 	^ self

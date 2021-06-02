@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 clone: out url: url local_path: local_path options: options
 	
 	^ self

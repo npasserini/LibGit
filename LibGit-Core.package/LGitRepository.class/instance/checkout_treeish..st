@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 checkout_treeish: treeish
 	"treeish can be a commit, tag or tree (or NULL to use HEAD)"
 	self withReturnHandlerDo: [ 

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 resetTo: target resetType: aResetType checkoutOptions: checkout_opts
 
 	^ self

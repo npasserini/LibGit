@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 index_find: at_pos index: index path: path
 	
 	^ self

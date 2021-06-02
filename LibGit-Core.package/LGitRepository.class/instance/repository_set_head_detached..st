@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_set_head_detached: commitish
 	
 	^ self

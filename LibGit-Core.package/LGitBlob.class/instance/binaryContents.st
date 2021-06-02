@@ -1,4 +1,4 @@
-private-accessing
+private - accessing
 binaryContents
 	| bytes |
 	"freeing not required. See #rawBuffer"

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 resetHardTo: target
 
 	^ self

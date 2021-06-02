@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 new_signature: out name:name email:email time:time
 	
 	^ self

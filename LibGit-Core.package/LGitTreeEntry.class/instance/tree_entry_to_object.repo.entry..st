@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tree_entry_to_object: object_out repo: repo entry: entry
 	
 	^ self

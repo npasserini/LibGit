@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 clone: aString options: cloneOptions
 	self
 		clone: aString

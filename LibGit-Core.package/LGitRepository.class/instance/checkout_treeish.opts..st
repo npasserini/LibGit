@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 checkout_treeish: treeish opts: opts
 	^ self
 		ffiCallSafely:

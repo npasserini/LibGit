@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 status_file: status_flags repo: repo path: path
 	
 	^ self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 merge_heads: heads length: length merge_options: mergeOptions checkout_options: checkoutOptions
 	
 	^ self

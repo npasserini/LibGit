@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_config: config
 	^ self
 		ffiCallSafely:

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_index: out repo: repo
 	
 	^ self

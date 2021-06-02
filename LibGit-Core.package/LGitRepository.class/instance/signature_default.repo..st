@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 signature_default: out repo: repo
 	
 	^ self
