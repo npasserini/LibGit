@@ -1,0 +1,1 @@
+Return handler for GIT_EAPPLIED - Patch/merge has already been applied

@@ -1,0 +1,1 @@
+Return handler for GIT_ECERTIFICATE - Server certificate is invalid

@@ -1,0 +1,1 @@
+Return handler for GIT_ENOTFOUND - Requested object could not be found

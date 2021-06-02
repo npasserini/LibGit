@@ -1,0 +1,1 @@
+Return handler for GIT_PASSTHROUGH - A user-configured callback refused to act

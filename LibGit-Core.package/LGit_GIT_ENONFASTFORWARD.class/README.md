@@ -1,0 +1,1 @@
+Return handler for GIT_ENONFASTFORWARD - Reference was not fast-forwardable

@@ -1,0 +1,1 @@
+Return handler for GIT_EBAREREPO - Operation not allowed on bare repository

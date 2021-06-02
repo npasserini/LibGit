@@ -1,0 +1,1 @@
+Return handler for GIT_EAMBIGUOUS - More than one object matches

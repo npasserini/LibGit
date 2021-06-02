@@ -1,0 +1,1 @@
+Return handler for GIT_EPEEL - The requested peel operation is not possible

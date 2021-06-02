@@ -1,0 +1,1 @@
+Return handler for GIT_ITEROVER - Signals end of iteration with iterator

@@ -1,0 +1,1 @@
+Return handler for GIT_EUNMERGED - Merge in progress prevented operation

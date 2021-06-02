@@ -1,0 +1,1 @@
+Return handler for GIT_EUNCOMMITTED - Uncommitted changes in index prevented operation
