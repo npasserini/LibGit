@@ -1,0 +1,1 @@
+Exernal enum for git based on In32
