@@ -1,0 +1,1 @@
+Specific field parsing adoptions for git structure
