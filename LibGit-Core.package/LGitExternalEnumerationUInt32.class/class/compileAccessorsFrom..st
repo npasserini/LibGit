@@ -1,5 +1,6 @@
 class initialization
 compileAccessorsFrom: aDictionary
+
 	aDictionary keysAndValuesDo: [ :symbol :value |
 		self class
 			compile: (String streamContents: [ :stream |
@@ -10,4 +11,4 @@ compileAccessorsFrom: aDictionary
 					nextPutAll: value asString;
 					nextPutAll: ';'; cr; tab; tab;
 					nextPutAll: 'yourself' ])
-			classified: 'accessing-values' ]
+			classified: 'accessing - values' ]
