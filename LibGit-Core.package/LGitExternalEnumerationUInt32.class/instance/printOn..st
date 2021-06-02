@@ -1,5 +1,6 @@
 printing
 printOn: stream
+
 	super printOn: stream.
 
 	value isInteger 		" temp: due to a uffi bug (?) sometimes value == self"

@@ -1,3 +1,4 @@
 accessing
 ffiLibrary
-	^self class ffiLibrary
+
+	^ self class ffiLibrary

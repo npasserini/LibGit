@@ -8,6 +8,7 @@ isPartOfBitFlag: anInteger
 	For some reason the libgit2 folks thought it would make sense to
 	use flags of value 0 in bit flags. That forces one to check for zero
 	(on the entire word)	explicitly. WTF."
+		
 	^ self value isZero
 		ifTrue: [ anInteger isZero ]
 		ifFalse: [ (self value bitAnd: anInteger) = self value ]

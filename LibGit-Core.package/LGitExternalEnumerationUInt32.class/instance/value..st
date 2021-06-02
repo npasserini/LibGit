@@ -1,3 +1,4 @@
 accessing
 value: anInteger
-	value := anInteger 
+
+	value := anInteger

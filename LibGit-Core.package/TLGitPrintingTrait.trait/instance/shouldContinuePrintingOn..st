@@ -1,3 +1,4 @@
-printing
+testing
 shouldContinuePrintingOn: aStream
+
 	^ true

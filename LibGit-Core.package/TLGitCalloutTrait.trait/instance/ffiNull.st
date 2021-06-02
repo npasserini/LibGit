@@ -1,4 +1,4 @@
 accessing
 ffiNull
 
-	^FFIExternalObject null
+	^ FFIExternalObject null

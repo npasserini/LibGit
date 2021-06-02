@@ -1,5 +1,6 @@
 printing
 printOn: aStream
+
 	| title |
 	title := self class name.
 	aStream

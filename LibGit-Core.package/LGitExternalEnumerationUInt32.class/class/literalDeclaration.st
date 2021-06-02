@@ -1,5 +1,6 @@
 enum declaration
 literalDeclaration
+
 	| dictionary |
 	dictionary := self enumDecl in: [ :decl |
 		decl isDictionary
