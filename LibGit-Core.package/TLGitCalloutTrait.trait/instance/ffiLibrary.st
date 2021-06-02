@@ -1,3 +1,3 @@
-resources
+accessing
 ffiLibrary
 	^self class ffiLibrary
