@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isOk
 	^ value = 0
