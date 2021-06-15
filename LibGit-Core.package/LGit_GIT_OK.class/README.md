@@ -1,0 +1,1 @@
+Return handler for GIT_OK - No error

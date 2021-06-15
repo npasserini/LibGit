@@ -1,0 +1,1 @@
+Writing of a git tree failed

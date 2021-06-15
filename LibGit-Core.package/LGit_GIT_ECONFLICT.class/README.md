@@ -1,0 +1,1 @@
+Return handler for GIT_ECONFLICT - Internal only

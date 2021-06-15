@@ -1,3 +1,4 @@
 private
 type
+
 	^ FFIUInt32

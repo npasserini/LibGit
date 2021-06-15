@@ -1,0 +1,1 @@
+Return handler for GIT_ERROR - Generic error

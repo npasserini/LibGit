@@ -1,0 +1,1 @@
+External object for libgit

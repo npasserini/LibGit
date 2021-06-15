@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_net
 	^ self basicNew
 		value: 12;

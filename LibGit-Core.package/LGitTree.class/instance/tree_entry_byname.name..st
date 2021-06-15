@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tree_entry_byname: tree name: name
 	
 	^ self

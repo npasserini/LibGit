@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 commit_committer: commit
 	
 	^ self

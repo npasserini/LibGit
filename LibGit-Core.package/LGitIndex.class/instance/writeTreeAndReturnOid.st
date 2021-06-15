@@ -1,5 +1,6 @@
 operations
 writeTreeAndReturnOid
+
 	| oid |
 	oid := LGitId externalNew.
 	self withReturnHandlerDo: [ 

@@ -1,0 +1,1 @@
+The Git transport is a simple, unauthenticated server that takes the command with which the client wishes to communicate and executes it and connects it to the requesting process.

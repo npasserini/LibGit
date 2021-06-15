@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_update_tips: anObject
 	"This method was automatically generated"
 	handle 

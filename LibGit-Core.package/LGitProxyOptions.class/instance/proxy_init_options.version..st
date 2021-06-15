@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 proxy_init_options: opts version: version
 	^ self
 		ffiCall: #(LGitReturnCodeEnum git_proxy_init_options(void *handle, LGitOptionsVersionsEnum version))

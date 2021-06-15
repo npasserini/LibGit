@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 password
 	^ self credentials
 		at: #password

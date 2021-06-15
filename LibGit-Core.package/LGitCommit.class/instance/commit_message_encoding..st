@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 commit_message_encoding: commit
 	
 	^ self

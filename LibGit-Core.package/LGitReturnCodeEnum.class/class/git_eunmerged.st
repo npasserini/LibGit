@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_eunmerged
 	^ self basicNew
 		value: -10;

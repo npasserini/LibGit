@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_connect: remote direction: direction callbacks: remoteCallbacks
 	
 	^ self

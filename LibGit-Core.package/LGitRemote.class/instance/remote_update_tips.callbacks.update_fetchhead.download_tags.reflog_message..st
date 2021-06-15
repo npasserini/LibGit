@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_update_tips: remote callbacks: remoteCallbacks update_fetchhead: update_fetchhead download_tags: download_tags reflog_message: reflog_message
 	
 	^ self

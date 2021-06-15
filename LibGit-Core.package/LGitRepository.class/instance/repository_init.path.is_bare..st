@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_init: out path: path is_bare: is_bare
 	
 	^ self

@@ -1,3 +1,4 @@
-libgit-finalization
+libgit - finalization
 freeFunctionSelector
+
 	^ #config_free:

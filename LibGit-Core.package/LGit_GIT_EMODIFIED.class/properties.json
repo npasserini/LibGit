@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 6/2/2021 20:09",
 	"super" : "LGitCallReturnHandler",
 	"category" : "LibGit-Core-Exceptions-ReturnCodes",
 	"classinstvars" : [ ],

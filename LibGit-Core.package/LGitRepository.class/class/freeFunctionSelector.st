@@ -1,3 +1,3 @@
-native-boost
+finalization
 freeFunctionSelector
 	^ #repository_free:

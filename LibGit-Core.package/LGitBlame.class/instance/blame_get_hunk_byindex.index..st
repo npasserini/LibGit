@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blame_get_hunk_byindex: blame index: index
 	"todo: using LGitBlameHunk* as return value causes random crashes"
 	

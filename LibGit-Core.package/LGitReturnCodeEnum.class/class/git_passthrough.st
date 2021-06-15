@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_passthrough
 	^ self basicNew
 		value: -30;

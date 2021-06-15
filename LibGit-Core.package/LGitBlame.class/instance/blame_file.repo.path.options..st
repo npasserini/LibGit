@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blame_file: out repo: repo path: path options: options
 	
 	^ self

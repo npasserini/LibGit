@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 commit_create: theCommitId repo: repo update_ref: update_ref author: theAuthor committer: theCommitter message_encoding: message_encoding message: theMessage tree: theTree parent_count: parent_count parents: parentsPointer
 	
 	<todo:

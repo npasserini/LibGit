@@ -1,3 +1,4 @@
-private-accessing
+private - accessing
 rawSize
+
 	^ self blob_rawsize: self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_add_push: repo remote: remote refspec: refspec
 	
 	^ self

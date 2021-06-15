@@ -1,0 +1,1 @@
+Return handler for GIT_EINVALIDSPEC - Name/ref spec was not in a valid format

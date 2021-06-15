@@ -1,3 +1,3 @@
-libgit-finalization
+libgit - finalization
 freeFunctionSelector
 	^ #strarray_free:

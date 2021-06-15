@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 patch_print: patch print_cb: print_cb payload: payload
 	
 	^ self

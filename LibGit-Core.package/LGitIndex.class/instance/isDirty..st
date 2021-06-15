@@ -1,5 +1,6 @@
 testing
 isDirty: aFileReference
+
 	| intValue |
 	intValue := LGitWriteBackValueInt new.
 	self withReturnHandlerDo: [

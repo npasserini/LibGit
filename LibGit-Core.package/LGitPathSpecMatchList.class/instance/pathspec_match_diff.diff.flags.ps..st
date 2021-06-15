@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 pathspec_match_diff: out diff: diff flags: flags ps: ps
 	
 	^ self

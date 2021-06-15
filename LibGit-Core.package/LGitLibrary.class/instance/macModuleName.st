@@ -1,4 +1,4 @@
-accessing platform
+accessing - platform
 macModuleName
 	| pluginDir |
 	pluginDir := Smalltalk vm binary parent / 'Plugins'.

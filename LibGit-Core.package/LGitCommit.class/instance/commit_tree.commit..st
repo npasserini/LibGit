@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 commit_tree: tree_out commit: commit
 	
 	^ self

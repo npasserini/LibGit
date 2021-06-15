@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 keyPassPhrase
 	^ self credentials
 		at: #keyPassPhrase

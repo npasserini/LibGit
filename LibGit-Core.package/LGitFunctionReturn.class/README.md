@@ -1,0 +1,1 @@
+A function as return value

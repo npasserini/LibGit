@@ -1,0 +1,1 @@
+Trait to bundle printout functionality

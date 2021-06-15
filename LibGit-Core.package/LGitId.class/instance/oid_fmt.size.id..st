@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 oid_fmt: aByteArray size: anInteger id: objectId
 	"Format a git_oid into a partial hex string"
 

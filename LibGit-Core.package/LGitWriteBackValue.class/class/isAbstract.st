@@ -1,3 +1,4 @@
 testing
 isAbstract
+
 	^ self == LGitWriteBackValue

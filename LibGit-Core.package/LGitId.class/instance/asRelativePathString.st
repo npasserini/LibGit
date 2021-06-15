@@ -1,5 +1,6 @@
 printing
 asRelativePathString
+
 	| string |
 	string := String new: 41.
 	string pin.

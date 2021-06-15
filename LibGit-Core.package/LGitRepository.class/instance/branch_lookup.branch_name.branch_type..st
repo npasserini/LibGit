@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 branch_lookup: out branch_name: branch_name branch_type: branch_type
 	
 	^ self

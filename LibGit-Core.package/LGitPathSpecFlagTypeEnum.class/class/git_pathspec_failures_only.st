@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_pathspec_failures_only
 	^ self basicNew
 		value: 32;

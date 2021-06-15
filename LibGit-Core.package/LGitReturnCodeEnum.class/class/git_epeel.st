@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_epeel
 	^ self basicNew
 		value: -19;

@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_submodule
 	^ self basicNew
 		value: 17;

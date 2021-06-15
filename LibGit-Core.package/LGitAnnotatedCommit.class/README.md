@@ -1,0 +1,1 @@
+See [https://libgit2.org/libgit2/#HEAD/group/annotated](https://libgit2.org/libgit2/#HEAD/group/annotated)

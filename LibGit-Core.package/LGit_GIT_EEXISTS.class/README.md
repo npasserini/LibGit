@@ -1,0 +1,1 @@
+Return handler for GIT_EEXISTS - Object exists preventing operation

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 index_write_tree: out index: index
 	
 	^ self

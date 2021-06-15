@@ -1,6 +1,7 @@
 printing
 hexString
 	"Answer a hex string representation of the receiver"
+	
 	| buffer |
 
 	self isExternal

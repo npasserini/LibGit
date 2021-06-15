@@ -1,5 +1,6 @@
 accessing
 names
+
 	| names |
 	names := OrderedCollection new.
 	self repository head object tree allEntriesDo: [ :rootPath :entry :payload |

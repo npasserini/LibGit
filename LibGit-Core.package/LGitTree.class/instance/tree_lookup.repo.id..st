@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tree_lookup: out repo: repo id: objectId
 	
 	^ self

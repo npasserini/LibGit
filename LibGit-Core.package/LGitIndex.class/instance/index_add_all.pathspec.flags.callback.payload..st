@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 index_add_all: index pathspec: pathspec flags: flags callback: callback payload: payload
 	
 	^ self

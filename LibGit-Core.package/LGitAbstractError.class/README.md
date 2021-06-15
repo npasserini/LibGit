@@ -1,0 +1,1 @@
+Abstract superclass for git errors

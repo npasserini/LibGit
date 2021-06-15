@@ -3,7 +3,7 @@
 	"classvars" : [ ],
 	"instvars" : [ ],
 	"name" : "LGitExternalObject",
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 6/2/2021 23:18",
 	"super" : "FFIExternalObject",
 	"traitcomposition" : "TLGitPrintingTrait + TLGitCalloutTrait",
 	"type" : "normal",

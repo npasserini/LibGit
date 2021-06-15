@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 reference_symbolic_set_target: out ref: ref target: target log_message: log_message
 	
 	^ self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_delete: repo name: name
 	
 	^ self

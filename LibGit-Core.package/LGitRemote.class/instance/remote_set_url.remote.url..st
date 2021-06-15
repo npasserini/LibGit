@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_set_url: repo remote: remote url: urlString
 	
 	^ self

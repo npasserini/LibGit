@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_set_head: refname log_message: log_message
 	
 	^ self

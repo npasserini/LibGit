@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 packbuilder_new: out repo: repo
 	
 	^ self

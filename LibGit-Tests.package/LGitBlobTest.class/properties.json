@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "LGitObjectTest",
-	"category" : "LibGit-Tests",
+	"category" : "LibGit-Tests-CoreObjects",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

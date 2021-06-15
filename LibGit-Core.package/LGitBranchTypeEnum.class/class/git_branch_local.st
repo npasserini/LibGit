@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_branch_local
 	^ self basicNew
 		value: 1;

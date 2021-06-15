@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 treebuilder_new: out repo: repo source: source
 	^ self
 		ffiCall:

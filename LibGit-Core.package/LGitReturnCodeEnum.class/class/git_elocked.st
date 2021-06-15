@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_elocked
 	^ self basicNew
 		value: -14;

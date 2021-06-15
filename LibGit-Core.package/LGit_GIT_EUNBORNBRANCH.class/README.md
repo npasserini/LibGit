@@ -1,0 +1,1 @@
+Return handler for GIT_EUNBORNBRANCH - HEAD refers to branch with no commits

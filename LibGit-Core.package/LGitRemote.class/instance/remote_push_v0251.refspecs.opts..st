@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_push_v0251: remote refspecs: refspecs opts: opts
 	^ self
 		ffiCallSafely:

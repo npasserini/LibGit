@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 diff_tree_to_workdir: diff repo: repo old_tree: old_tree opts: opts
 	
 	^ self

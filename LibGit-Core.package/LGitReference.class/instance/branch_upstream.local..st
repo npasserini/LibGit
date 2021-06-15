@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 branch_upstream: out local: local
 	^ self
 		ffiCall:

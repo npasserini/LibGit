@@ -1,5 +1,6 @@
 printing
 objectPrintOn: aStream
+
 	self id hexString in: [ :hexId |
 		aStream
 			nextPutAll: (hexId first: 7);

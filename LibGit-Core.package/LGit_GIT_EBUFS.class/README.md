@@ -1,0 +1,1 @@
+Return handler for GIT_EBUFS - Output buffer too short to hold data

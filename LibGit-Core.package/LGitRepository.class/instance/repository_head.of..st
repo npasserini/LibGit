@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 repository_head: reference of: repository
 	
 	^ self

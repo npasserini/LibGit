@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tree_entry_cmp: e1 e2: e2
 	
 	^ self

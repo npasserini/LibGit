@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 git_branch_delete: gitReference
 	^ self
 		ffiCallSafely:

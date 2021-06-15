@@ -1,4 +1,4 @@
-accessing-credentials
+accessing - credentials
 keyFilePrivatePath: aString
 	self credentials
 		at: #keyFilePrivatePath

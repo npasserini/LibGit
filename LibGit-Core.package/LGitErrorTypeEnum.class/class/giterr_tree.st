@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_tree
 	^ self basicNew
 		value: 14;

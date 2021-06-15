@@ -1,5 +1,6 @@
 private
 lookup
+
 	self withReturnHandlerDo: [ self
 		object_lookup: self 
 		repo: self repository

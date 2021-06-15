@@ -1,5 +1,6 @@
 initialization
 initializeWithByteArray: aByteArray
+
 	| externalArray |
 	externalArray := Byte20 externalNew.
 	handle := externalArray getHandle.

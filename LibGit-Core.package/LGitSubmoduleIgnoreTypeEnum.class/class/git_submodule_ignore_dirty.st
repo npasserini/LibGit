@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_submodule_ignore_dirty
 	^ self basicNew
 		value: 3;

@@ -1,0 +1,1 @@
+Callback handler for LibGit error codes

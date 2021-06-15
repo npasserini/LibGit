@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_invalid
 	^ self basicNew
 		value: 3;

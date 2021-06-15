@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 remote_push: remote refspecs: refspecs opts: opts
 	
 	self ffiLibrary uniqueInstance version first = 0

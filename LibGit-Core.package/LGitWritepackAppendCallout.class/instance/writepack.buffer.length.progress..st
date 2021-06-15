@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 writepack: writepack buffer: buffer length: length progress: progress
 	
 	^ self

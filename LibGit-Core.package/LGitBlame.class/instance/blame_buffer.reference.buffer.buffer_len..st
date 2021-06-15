@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blame_buffer: out reference: reference buffer: buffer buffer_len: buffer_len
 	
 	^ self

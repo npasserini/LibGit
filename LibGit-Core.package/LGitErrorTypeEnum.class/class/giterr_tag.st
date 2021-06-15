@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_tag
 	^ self basicNew
 		value: 13;

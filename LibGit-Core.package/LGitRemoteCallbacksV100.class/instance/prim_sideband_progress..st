@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_sideband_progress: anObject
 	"This method was automatically generated"
 	handle 

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tree_walk: tree mode: mode callback: callback payload: payload
 	
 	^ self

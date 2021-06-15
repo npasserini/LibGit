@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blob_create_frombuffer: objectId repo: repo buffer: buffer len: len
 	
 	^ self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 patch_from_diff: out diff: diff idx: idx
 	
 	^ self

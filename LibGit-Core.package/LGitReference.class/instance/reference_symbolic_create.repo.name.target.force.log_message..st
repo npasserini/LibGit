@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 reference_symbolic_create: out repo: repo name: name target: target force: force log_message: log_message
 	
 	^ self

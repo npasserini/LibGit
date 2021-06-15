@@ -1,4 +1,4 @@
-libgit-fields
+libgit - fields
 prim_progress_cb: anObject
 	"This method was automatically generated"
 	handle 

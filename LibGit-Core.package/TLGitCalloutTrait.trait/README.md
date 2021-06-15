@@ -1,0 +1,1 @@
+Trait to bundle callout functionality

@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_filesystem
 	^ self basicNew
 		value: 30;

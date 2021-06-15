@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 object_id: obj
 	
 	^ self

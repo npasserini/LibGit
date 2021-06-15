@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_cherrypick
 	^ self basicNew
 		value: 27;

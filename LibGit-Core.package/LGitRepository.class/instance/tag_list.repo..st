@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 tag_list: tag_names repo: repo
 	
 	^ self

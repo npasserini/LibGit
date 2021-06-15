@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 blame_get_hunk_count: blame
 	
 	^ self

@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 index_read: index force: force
 	
 	^ self

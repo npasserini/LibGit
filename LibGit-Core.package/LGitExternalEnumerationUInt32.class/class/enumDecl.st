@@ -1,3 +1,4 @@
 enum declaration
 enumDecl
-	^#()
+
+	^ #()

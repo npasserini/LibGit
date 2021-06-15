@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 git_econflict
 	^ self basicNew
 		value: -13;

@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "TestCase",
-	"category" : "LibGit-Tests",
+	"category" : "LibGit-Tests-FFI-Handling",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

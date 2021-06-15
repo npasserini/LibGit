@@ -1,4 +1,4 @@
-libgit-calls
+libgit - calls
 clone: aString options: cloneOptions to: aFileReference
 	<todo: 'use exceptions instead of assertion'>
 	self assert: aString isEmptyOrNil not.

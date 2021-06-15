@@ -1,4 +1,4 @@
-accessing-values
+accessing - values
 giterr_checkout
 	^ self basicNew
 		value: 20;
